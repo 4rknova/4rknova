@@ -16,6 +16,10 @@ alt="RSS Feed"/>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Normal Map Blending](https://www.4rknova.com//blog/2021/09/19/normal-blending)
+- [Notes on Unreal Engine 5, Nanite](https://www.4rknova.com//blog/2021/05/09/unreal-5-nanite)
+- [Reviving old software on a modern machine](https://www.4rknova.com//blog/2021/04/12/reviving-old-software)
+- [Creating floppy disk images in Linux](https://www.4rknova.com//blog/2021/03/24/creating-floppy-disk-images)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
