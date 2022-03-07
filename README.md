@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="/https://www.4rknova.com/feed.xml" target="blank">
+  <a href="https://www.4rknova.com/feed.xml" target="blank">
      <img src="https://img.shields.io/badge/RSS-blue?style=for-the-badge&logo=rss&logoColor=white"
 alt="RSS Feed"/>
   </a>
