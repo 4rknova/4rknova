@@ -20,6 +20,12 @@ alt="RSS Feed"/>
 - [Notes on Unreal Engine 5, Nanite](https://www.4rknova.com//blog/2021/05/09/unreal-5-nanite)
 - [Reviving old software on a modern machine](https://www.4rknova.com//blog/2021/04/12/reviving-old-software)
 - [Creating floppy disk images in Linux](https://www.4rknova.com//blog/2021/03/24/creating-floppy-disk-images)
+- [Setting the DNS server&lpar;s&rpar; in Debian](https://www.4rknova.com//blog/2020/10/01/dns-server-in-debian)
+- [Unity_cubemapcap](https://www.4rknova.com//2020/06/25/unity-cubemapcap)
+- [The De Moivre theorem](https://www.4rknova.com//blog/2020/06/25/demoivre)
+- [Macro-Photography with a Mobile Phone &lpar;Part 2&rpar;](https://www.4rknova.com//blog/2020/06/15/macro-photos-pt2)
+- [Macro-Photography with a Mobile Phone](https://www.4rknova.com//blog/2020/06/14/macro-photos)
+- [Irradiance Encoding, Spherical Harmonics](https://www.4rknova.com//blog/2020/03/03/spherical-harmonics)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
