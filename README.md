@@ -16,7 +16,7 @@ alt="RSS Feed"/>
   </a>
 </div>
 
-### Blog
+### BLOG
 <!-- BLOG-POST-LIST:START -->
 - [Midjourney](https://www.4rknova.com//blog/2022/08/07/midjourney)
 - [Normal Map Blending](https://www.4rknova.com//blog/2021/09/19/normal-blending)
