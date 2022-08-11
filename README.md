@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/4rknova/4rknova/main/banner03.png">
+<img align="center" src="https://raw.githubusercontent.com/4rknova/4rknova/main/banner.png">
 
 <div id="badges" align="right">
   <a href="https://www.4rknova.com/feed.xml" target="blank">
