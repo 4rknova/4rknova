@@ -18,6 +18,7 @@ alt="RSS Feed"/>
 
 ### BLOG
 <!-- BLOG-POST-LIST:START -->
+- [Peripage bluetooth printing via the terminal](https://www.4rknova.com//blog/2022/09/03/cli-print-peripage)
 - [Using Yubikey FIDO2 to login in Debian/GDM](https://www.4rknova.com//blog/2022/09/02/yubikey-login)
 - [Intel&#39;s Panel Self Refresh &lpar;PSR&rpar; Feature](https://www.4rknova.com//blog/2022/09/01/intel-panel-self-refresh)
 - [Midjourney](https://www.4rknova.com//blog/2022/08/07/midjourney)
@@ -27,7 +28,6 @@ alt="RSS Feed"/>
 - [Creating floppy disk images in Linux](https://www.4rknova.com//blog/2021/03/24/creating-floppy-disk-images)
 - [Setting the DNS server&lpar;s&rpar; in Debian](https://www.4rknova.com//blog/2020/10/01/dns-server-in-debian)
 - [Unity_cubemapcap](https://www.4rknova.com//2020/06/25/unity-cubemapcap)
-- [The De Moivre theorem](https://www.4rknova.com//blog/2020/06/25/demoivre)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
