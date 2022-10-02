@@ -22,12 +22,12 @@ alt="RSS Feed"/>
 - [Using Yubikey FIDO2 to login in Debian/GDM](https://www.4rknova.com//blog/2022/09/02/yubikey-login)
 - [Intel&#39;s Panel Self Refresh &lpar;PSR&rpar; Feature](https://www.4rknova.com//blog/2022/09/01/intel-panel-self-refresh)
 - [Midjourney](https://www.4rknova.com//blog/2022/08/07/midjourney)
+- [Brachiograph plotter](https://www.4rknova.com//blog/2022/05/02/brachiograph)
 - [Normal Map Blending](https://www.4rknova.com//blog/2021/09/19/normal-blending)
 - [Notes on Unreal Engine 5, Nanite](https://www.4rknova.com//blog/2021/05/09/unreal-5-nanite)
 - [Reviving old software on a modern machine](https://www.4rknova.com//blog/2021/04/12/reviving-old-software)
 - [Creating floppy disk images in Linux](https://www.4rknova.com//blog/2021/03/24/creating-floppy-disk-images)
 - [Setting the DNS server&lpar;s&rpar; in Debian](https://www.4rknova.com//blog/2020/10/01/dns-server-in-debian)
-- [Unity_cubemapcap](https://www.4rknova.com//2020/06/25/unity-cubemapcap)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
