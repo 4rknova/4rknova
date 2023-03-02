@@ -18,6 +18,7 @@ alt="RSS Feed"/>
 
 ### BLOG
 <!-- BLOG-POST-LIST:START -->
+- [Getting creative with asciimg](https://www.4rknova.com//blog/2023/02/28/asciimg-slideshows)
 - [Float compression](https://www.4rknova.com//blog/2023/01/15/float-compression)
 - [Shadow mapping](https://www.4rknova.com//blog/2022/10/04/shadow-mapping)
 - [Peripage bluetooth printing via the terminal](https://www.4rknova.com//blog/2022/09/03/cli-print-peripage)
@@ -27,7 +28,6 @@ alt="RSS Feed"/>
 - [Brachiograph plotter](https://www.4rknova.com//blog/2022/05/02/brachiograph)
 - [Normal Map Blending](https://www.4rknova.com//blog/2021/09/19/normal-blending)
 - [Notes on Unreal Engine 5, Nanite](https://www.4rknova.com//blog/2021/05/09/unreal-5-nanite)
-- [Reviving old software on a modern machine](https://www.4rknova.com//blog/2021/04/12/reviving-old-software)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
