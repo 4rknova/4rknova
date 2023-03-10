@@ -18,7 +18,7 @@ alt="RSS Feed"/>
 
 ### BLOG
 <!-- BLOG-POST-LIST:START -->
-- [Getting creative with asciimg](https://www.4rknova.com//blog/2023/02/28/asciimg-slideshows)
+- [Getting creative with asciimg](https://www.4rknova.com//blog/2023/02/28/asciimg-tricks)
 - [Float compression](https://www.4rknova.com//blog/2023/01/15/float-compression)
 - [Shadow mapping](https://www.4rknova.com//blog/2022/10/04/shadow-mapping)
 - [Peripage bluetooth printing via the terminal](https://www.4rknova.com//blog/2022/09/03/cli-print-peripage)
