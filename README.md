@@ -18,7 +18,9 @@ alt="RSS Feed"/>
 
 ### BLOG
 <!-- BLOG-POST-LIST:START -->
-- [Getting creative with asciimg](https://www.4rknova.com//blog/2023/02/28/asciimg-tricks)
+- [Notifications with telegram](https://www.4rknova.com//blog/2023/04/05/telegram-notifications)
+- [Docker in Debian](https://www.4rknova.com//blog/2023/03/15/docker-debian)
+- [Getting creative with asciimg](https://www.4rknova.com//blog/2023/02/28/asciimg-slideshows)
 - [Float compression](https://www.4rknova.com//blog/2023/01/15/float-compression)
 - [Shadow mapping](https://www.4rknova.com//blog/2022/10/04/shadow-mapping)
 - [Peripage bluetooth printing via the terminal](https://www.4rknova.com//blog/2022/09/03/cli-print-peripage)
@@ -26,8 +28,6 @@ alt="RSS Feed"/>
 - [Intel&#39;s Panel Self Refresh &lpar;PSR&rpar; Feature](https://www.4rknova.com//blog/2022/09/01/intel-panel-self-refresh)
 - [Midjourney](https://www.4rknova.com//blog/2022/08/07/midjourney)
 - [Brachiograph plotter](https://www.4rknova.com//blog/2022/05/02/brachiograph)
-- [Normal Map Blending](https://www.4rknova.com//blog/2021/09/19/normal-blending)
-- [Notes on Unreal Engine 5, Nanite](https://www.4rknova.com//blog/2021/05/09/unreal-5-nanite)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
