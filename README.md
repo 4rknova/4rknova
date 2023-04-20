@@ -18,7 +18,7 @@ alt="RSS Feed"/>
 
 ### BLOG
 <!-- BLOG-POST-LIST:START -->
-- [Notifications with telegram](https://www.4rknova.com//blog/2023/04/05/telegram-notifications)
+- [Notifications using Telegram](https://www.4rknova.com//blog/2023/04/05/telegram-notifications)
 - [Docker in Debian](https://www.4rknova.com//blog/2023/03/15/docker-debian)
 - [Getting creative with asciimg](https://www.4rknova.com//blog/2023/02/28/asciimg-slideshows)
 - [Float compression](https://www.4rknova.com//blog/2023/01/15/float-compression)
