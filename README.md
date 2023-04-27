@@ -18,6 +18,7 @@ alt="RSS Feed"/>
 
 ### BLOG
 <!-- BLOG-POST-LIST:START -->
+- [ZEXMTE BT-506 in Debian](https://www.4rknova.com//blog/2023/04/22/zexmte-bluetooth-debian)
 - [Notifications using Telegram](https://www.4rknova.com//blog/2023/04/05/telegram-notifications)
 - [Docker in Debian](https://www.4rknova.com//blog/2023/03/15/docker-debian)
 - [Getting creative with asciimg](https://www.4rknova.com//blog/2023/02/28/asciimg-slideshows)
@@ -27,7 +28,6 @@ alt="RSS Feed"/>
 - [Using Yubikey FIDO2 to login in Debian/GDM](https://www.4rknova.com//blog/2022/09/02/yubikey-login)
 - [Intel&#39;s Panel Self Refresh &lpar;PSR&rpar; Feature](https://www.4rknova.com//blog/2022/09/01/intel-panel-self-refresh)
 - [Midjourney](https://www.4rknova.com//blog/2022/08/07/midjourney)
-- [Brachiograph plotter](https://www.4rknova.com//blog/2022/05/02/brachiograph)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
