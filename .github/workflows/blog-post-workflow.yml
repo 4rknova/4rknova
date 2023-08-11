@@ -10,7 +10,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - uses: gautamkrishnar/blog-post-workflow@b33695a8f0f5c77b4abc57493541bc6a0d4a0f4f
               with: 
                 max_post_count: "10"
                 feed_list: "https://www.4rknova.com/feed.xml"
