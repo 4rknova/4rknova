@@ -18,6 +18,7 @@ alt="RSS Feed"/>
 
 ### BLOG
 <!-- BLOG-POST-LIST:START -->
+- [Speech synthesis for web applications](https://www.4rknova.com//blog/2025/01/16/speech-synthesis)
 - [Gameboy Development, Part 1: Hello World!](https://www.4rknova.com//blog/2023/08/06/gb-dev-pt-1)
 - [Working with encrypted file archives](https://www.4rknova.com//blog/2023/07/01/encrypted-archives)
 - [ZEXMTE BT-506 in Debian](https://www.4rknova.com//blog/2023/04/22/zexmte-bluetooth-debian)
@@ -27,7 +28,6 @@ alt="RSS Feed"/>
 - [Lossy Compression of Unsigned Float Numbers](https://www.4rknova.com//blog/2023/01/15/float-compression)
 - [Shadow Mapping](https://www.4rknova.com//blog/2022/10/04/shadow-mapping)
 - [Peripage bluetooth printing via the terminal](https://www.4rknova.com//blog/2022/09/03/cli-print-peripage)
-- [Using Yubikey FIDO2 to login in Debian/GDM](https://www.4rknova.com//blog/2022/09/02/yubikey-login)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
