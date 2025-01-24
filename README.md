@@ -18,6 +18,7 @@ alt="RSS Feed"/>
 
 ### BLOG
 <!-- BLOG-POST-LIST:START -->
+- [Implementing a todo app, Part 1: The Backend](https://www.4rknova.com//blog/2025/01/22/todo-app-backend)
 - [Speech synthesis for web applications](https://www.4rknova.com//blog/2025/01/16/speech-synthesis)
 - [Gameboy Development, Part 1: Hello World!](https://www.4rknova.com//blog/2023/08/06/gb-dev-pt-1)
 - [Working with encrypted file archives](https://www.4rknova.com//blog/2023/07/01/encrypted-archives)
@@ -27,7 +28,6 @@ alt="RSS Feed"/>
 - [Getting creative with asciimg](https://www.4rknova.com//blog/2023/02/28/asciimg-slideshows)
 - [Lossy Compression of Unsigned Float Numbers](https://www.4rknova.com//blog/2023/01/15/float-compression)
 - [Shadow Mapping](https://www.4rknova.com//blog/2022/10/04/shadow-mapping)
-- [Peripage bluetooth printing via the terminal](https://www.4rknova.com//blog/2022/09/03/cli-print-peripage)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
