@@ -7,7 +7,6 @@ alt="RSS Feed"/>
   </a>
 </div>
 
-### BLOG
 <!-- BLOG-POST-LIST:START -->
 - [Implementing a todo app, Part 1: The Backend](https://www.4rknova.com//blog/2025/01/22/todo-app-backend)
 - [Speech synthesis for web applications](https://www.4rknova.com//blog/2025/01/16/speech-synthesis)
@@ -21,10 +20,5 @@ alt="RSS Feed"/>
 - [Shadow Mapping](https://www.4rknova.com//blog/2022/10/04/shadow-mapping)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rknova&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="4rknova" />
--->
-
-<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
--->
