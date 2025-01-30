@@ -4,9 +4,6 @@
     <img alt="RSS" src="https://img.shields.io/badge/RSS-0066cc?style=for-the-badge&logo=rss&logoColor=white"
 alt="RSS Feed"/>
   </a>
-  <a href="https://www.4rknova.com/" target="blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-0066cc?style=for-the-badge" alt="Website"/>
-  </a>
 </div>
 
  <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
