@@ -1,12 +1,15 @@
 <img align="center" src="https://raw.githubusercontent.com/4rknova/4rknova/main/banner.png">
- <div id="badges" align="right">
-    <a href="https://www.4rknova.com/feed.xml" target="blank">
-      <img src="https://img.shields.io/badge/RSS-0066cc?style=for-the-badge&logo=rss&logoColor=white"
+<div>
+  <a href="https://www.4rknova.com/feed.xml" target="blank">
+    <img alt="RSS" src="https://img.shields.io/badge/RSS-0066cc?style=for-the-badge&logo=rss&logoColor=white"
 alt="RSS Feed"/>
-    </a>
+  </a>
+  <a href="https://www.4rknova.com/" target="blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-0066cc?style=for-the-badge" alt="Website"/>
+  </a>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
+ <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
 
 <!-- BLOG-POST-LIST:START -->
 - [Implementing a todo app, Part 1: The Backend](https://www.4rknova.com//blog/2025/01/22/todo-app-backend)
