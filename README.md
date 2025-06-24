@@ -10,7 +10,6 @@ alt="RSS Feed"/>
 
 <!-- BLOG-POST-LIST:START -->
 - [Somewhere Else](https://www.4rknova.com//stories/2025/05/05/story-smw-else)
-- [Audio_transcripts](https://www.4rknova.com//2025/04/05/audio-transcripts)
 - [Implementing a todo app, Part 1: The Backend](https://www.4rknova.com//blog/2025/01/22/todo-app-backend)
 - [Speech synthesis for web applications](https://www.4rknova.com//blog/2025/01/16/speech-synthesis)
 - [Gameboy Development, Part 1: Hello World!](https://www.4rknova.com//blog/2023/08/06/gb-dev-pt-1)
@@ -19,4 +18,5 @@ alt="RSS Feed"/>
 - [Notifications Using Telegram](https://www.4rknova.com//blog/2023/04/05/telegram-notifications)
 - [Docker in Debian](https://www.4rknova.com//blog/2023/03/15/docker-debian)
 - [Getting creative with asciimg](https://www.4rknova.com//blog/2023/02/28/asciimg-slideshows)
+- [Lossy Compression of Unsigned Float Numbers](https://www.4rknova.com//blog/2023/01/15/float-compression)
 <!-- BLOG-POST-LIST:END -->
