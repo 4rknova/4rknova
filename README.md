@@ -12,11 +12,11 @@ alt="RSS Feed"/>
 - [A condensed guide to React hooks](https://www.4rknova.com//blog/2025/06/30/react-hooks)
 - [Simulating the Seestar S50 in Stellarium](https://www.4rknova.com//blog/2025/06/29/seestar-s50-stellarium)
 - [Somewhere Else](https://www.4rknova.com//stories/2025/05/05/story-smw-else)
+- [Generating audio transcripts](https://www.4rknova.com//blog/2025/04/05/audio-transcripts)
 - [Implementing a todo app, Part 1: The Backend](https://www.4rknova.com//blog/2025/01/22/todo-app-backend)
 - [Speech synthesis for web applications](https://www.4rknova.com//blog/2025/01/16/speech-synthesis)
 - [Gameboy Development, Part 1: Hello World!](https://www.4rknova.com//blog/2023/08/06/gb-dev-pt-1)
 - [Working with encrypted file archives](https://www.4rknova.com//blog/2023/07/01/encrypted-archives)
 - [ZEXMTE BT-506 in Debian](https://www.4rknova.com//blog/2023/04/22/zexmte-bluetooth-debian)
 - [Notifications Using Telegram](https://www.4rknova.com//blog/2023/04/05/telegram-notifications)
-- [Docker in Debian](https://www.4rknova.com//blog/2023/03/15/docker-debian)
 <!-- BLOG-POST-LIST:END -->
