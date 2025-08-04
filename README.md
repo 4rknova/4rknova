@@ -9,6 +9,7 @@ alt="RSS Feed"/>
  <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
 
 <!-- BLOG-POST-LIST:START -->
+- [The Andromeda Paradox](https://www.4rknova.com//blog/2025/08/01/andromeda-paradox)
 - [NGC6960, Veil Nebula](https://www.4rknova.com//blog/2025/07/16/astro-ngc6960)
 - [A condensed guide to React hooks](https://www.4rknova.com//blog/2025/06/30/react-hooks)
 - [Simulating the Seestar S50 in Stellarium](https://www.4rknova.com//blog/2025/06/29/seestar-s50-stellarium)
@@ -18,5 +19,4 @@ alt="RSS Feed"/>
 - [Gameboy Development, Part 1: Hello World!](https://www.4rknova.com//blog/2023/08/06/gb-dev-pt-1)
 - [Working with encrypted file archives](https://www.4rknova.com//blog/2023/07/01/encrypted-archives)
 - [ZEXMTE BT-506 in Debian](https://www.4rknova.com//blog/2023/04/22/zexmte-bluetooth-debian)
-- [Notifications Using Telegram](https://www.4rknova.com//blog/2023/04/05/telegram-notifications)
 <!-- BLOG-POST-LIST:END -->
