@@ -9,14 +9,14 @@ alt="RSS Feed"/>
  <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Polaris, The Celestial Anchor of the North](https://www.4rknova.com//blog/2025/08/11/polaris)
 - [Understanding Unity’s Render Pipelines: Built-in, URP, and HDRP](https://www.4rknova.com//blog/2025/08/04/unity-render-pipelines)
 - [The Andromeda Paradox](https://www.4rknova.com//blog/2025/08/01/andromeda-paradox)
 - [NGC6960, Veil Nebula](https://www.4rknova.com//blog/2025/07/16/astro-ngc6960)
 - [A condensed guide to React hooks](https://www.4rknova.com//blog/2025/06/30/react-hooks)
 - [Simulating the Seestar S50 in Stellarium](https://www.4rknova.com//blog/2025/06/29/seestar-s50-stellarium)
-- [Reviving the Classic RTS “Z” with DOSBox](https://www.4rknova.com//blog/2025/06/15/dos-game-z)
+- [Reviving the classic RTS “Z” with DOSBox](https://www.4rknova.com//blog/2025/06/15/dos-game-z)
 - [Generating audio transcripts](https://www.4rknova.com//blog/2025/04/05/audio-transcripts)
 - [Implementing a todo app, Part 1: The Backend](https://www.4rknova.com//blog/2025/01/22/todo-app-backend)
 - [Speech synthesis for web applications](https://www.4rknova.com//blog/2025/01/16/speech-synthesis)
-- [Gameboy Development, Part 1: Hello World!](https://www.4rknova.com//blog/2023/08/06/gb-dev-pt-1)
 <!-- BLOG-POST-LIST:END -->
