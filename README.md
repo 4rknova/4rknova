@@ -11,7 +11,7 @@ alt="RSS Feed"/>
 <!-- BLOG-POST-LIST:START -->
 - [Redshift: The Cosmic Fingerprint of Light in Motion](https://www.4rknova.com//blog/2025/08/15/red-shift)
 - [Polaris: The Celestial Anchor of the North](https://www.4rknova.com//blog/2025/08/11/polaris)
-- [Understanding Unity’s Render Pipelines: Built-in, URP, and HDRP](https://www.4rknova.com//blog/2025/08/04/unity-render-pipelines)
+- [Understanding Unity’s Render Pipelines](https://www.4rknova.com//blog/2025/08/04/unity-render-pipelines)
 - [The Andromeda Paradox](https://www.4rknova.com//blog/2025/08/01/andromeda-paradox)
 - [NGC6960: The Veil Nebula](https://www.4rknova.com//blog/2025/07/16/astro-ngc6960)
 - [A condensed guide to React hooks](https://www.4rknova.com//blog/2025/06/30/react-hooks)
