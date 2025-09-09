@@ -9,6 +9,8 @@ alt="RSS Feed"/>
  <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Full Moon: Seestar S50 vs. Samsung S25](https://www.4rknova.com//blog/2025/09/08/moon-photos)
+- [Rendering the Mandelbulb](https://www.4rknova.com//blog/2025/09/01/mandelbulb)
 - [Implementing a foil sticker effect](https://www.4rknova.com//blog/2025/08/30/foil-sticker)
 - [Redshift: The Cosmic Fingerprint of Light in Motion](https://www.4rknova.com//blog/2025/08/15/red-shift)
 - [Polaris: The Celestial Anchor of the North](https://www.4rknova.com//blog/2025/08/11/polaris)
@@ -17,6 +19,4 @@ alt="RSS Feed"/>
 - [NGC6960: The Veil Nebula](https://www.4rknova.com//blog/2025/07/16/astro-ngc6960)
 - [A condensed guide to React hooks](https://www.4rknova.com//blog/2025/06/30/react-hooks)
 - [Simulating the Seestar S50 in Stellarium](https://www.4rknova.com//blog/2025/06/29/seestar-s50-stellarium)
-- [Reviving the classic RTS “Z” with DOSBox](https://www.4rknova.com//blog/2025/06/15/dos-game-z)
-- [Generating audio transcripts](https://www.4rknova.com//blog/2025/04/05/audio-transcripts)
 <!-- BLOG-POST-LIST:END -->
