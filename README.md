@@ -9,7 +9,7 @@ alt="RSS Feed"/>
  <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Ray marching a blob in 3D](https://www.4rknova.com//blog/2025/09/21/blob-3d)
+- [Ray marching a blob](https://www.4rknova.com//blog/2025/09/21/blob-3d)
 - [Random Mutation Hill Climbing &lpar;RMHC&rpar;](https://www.4rknova.com//blog/2025/09/20/rmhc)
 - [Triple Buffering in Rendering APIs](https://www.4rknova.com//blog/2025/09/12/triple-buffering)
 - [Full Moon: Seestar S50 vs. Samsung S25](https://www.4rknova.com//blog/2025/09/08/moon-photos)
