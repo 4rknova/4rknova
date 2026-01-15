@@ -6,7 +6,7 @@ alt="RSS Feed"/>
   </a>
 </div>
 
- <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
+<!-- <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" /> -->
 
 <!-- BLOG-POST-LIST:START -->
 - [RTSP camera streaming with Raspberry-Pi Zero 2](https://www.4rknova.com//blog/2026/01/11/rtsp-rpi)
