@@ -9,6 +9,7 @@ alt="RSS Feed"/>
 <!-- <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" /> -->
 
 <!-- BLOG-POST-LIST:START -->
+- [A Universe Without Time](https://www.4rknova.com//blog/2026/01/25/barbour-timeless-universe)
 - [Seestar ALP Launcher](https://www.4rknova.com//blog/2026/01/18/seestar-alp-debian)
 - [RTSP camera streaming with Raspberry-Pi Zero 2](https://www.4rknova.com//blog/2026/01/11/rtsp-rpi)
 - [Ray marching a blob](https://www.4rknova.com//blog/2025/09/21/blob-3d)
@@ -18,5 +19,4 @@ alt="RSS Feed"/>
 - [Implementing a foil sticker effect](https://www.4rknova.com//blog/2025/08/30/foil-sticker)
 - [Redshift: The Cosmic Fingerprint of Light in Motion](https://www.4rknova.com//blog/2025/08/15/red-shift)
 - [Polaris: The Celestial Anchor of the North](https://www.4rknova.com//blog/2025/08/11/polaris)
-- [Understanding Unity’s Render Pipelines](https://www.4rknova.com//blog/2025/08/04/unity-render-pipelines)
 <!-- BLOG-POST-LIST:END -->
