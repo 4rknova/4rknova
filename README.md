@@ -10,7 +10,6 @@ alt="RSS Feed"/>
 
 <!-- BLOG-POST-LIST:START -->
 - [Raindrops on a puddle](https://www.4rknova.com//blog/2026/02/08/raindrops-on-puddle)
-- [Game Boy Snake: A Complete Implementation in Assembly](https://www.4rknova.com//blog/2026/02/08/gb-snake)
 - [A Universe Without Time](https://www.4rknova.com//blog/2026/01/25/barbour-timeless-universe)
 - [Seestar ALP Launcher](https://www.4rknova.com//blog/2026/01/18/seestar-alp-debian)
 - [RTSP camera streaming with Raspberry-Pi Zero 2](https://www.4rknova.com//blog/2026/01/11/rtsp-rpi)
@@ -19,4 +18,5 @@ alt="RSS Feed"/>
 - [Random Mutation Hill Climbing &lpar;RMHC&rpar;](https://www.4rknova.com//blog/2025/09/20/rmhc)
 - [Triple Buffering in Rendering APIs](https://www.4rknova.com//blog/2025/09/12/triple-buffering)
 - [Rendering the Mandelbulb](https://www.4rknova.com//blog/2025/09/01/mandelbulb)
+- [Implementing a foil sticker effect](https://www.4rknova.com//blog/2025/08/30/foil-sticker)
 <!-- BLOG-POST-LIST:END -->
