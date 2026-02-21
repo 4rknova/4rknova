@@ -9,6 +9,7 @@ alt="RSS Feed"/>
 <!-- <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" /> -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Reaction-Diffusion: Gray-Scott on a 2D Grid](https://www.4rknova.com//blog/2026/02/15/reaction-diffusion)
 - [Raindrops on a puddle](https://www.4rknova.com//blog/2026/02/08/raindrops-on-puddle)
 - [A Universe Without Time](https://www.4rknova.com//blog/2026/01/25/barbour-timeless-universe)
 - [Seestar ALP Launcher](https://www.4rknova.com//blog/2026/01/18/seestar-alp-debian)
@@ -18,5 +19,4 @@ alt="RSS Feed"/>
 - [Random Mutation Hill Climbing &lpar;RMHC&rpar;](https://www.4rknova.com//blog/2025/09/20/rmhc)
 - [Triple Buffering in Rendering APIs](https://www.4rknova.com//blog/2025/09/12/triple-buffering)
 - [Rendering the Mandelbulb](https://www.4rknova.com//blog/2025/09/01/mandelbulb)
-- [Implementing a foil sticker effect](https://www.4rknova.com//blog/2025/08/30/foil-sticker)
 <!-- BLOG-POST-LIST:END -->
