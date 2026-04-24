@@ -10,6 +10,7 @@ alt="RSS Feed"/>
 
 <!-- BLOG-POST-LIST:START -->
 - [Haversine Distance](https://www.4rknova.com//blog/2026/04/19/haversine-distance)
+- [Pale Blue Dot](https://www.4rknova.com//blog/2026/04/17/pale-blue-dot)
 - [The Gaia Database](https://www.4rknova.com//blog/2026/03/05/gaia-database-intro)
 - [Mulberry32: A Tiny, Fast, Deterministic RNG](https://www.4rknova.com//blog/2026/03/01/mulberry32-rng)
 - [Reaction-Diffusion: Gray-Scott on a 2D Grid](https://www.4rknova.com//blog/2026/02/15/reaction-diffusion)
@@ -18,5 +19,4 @@ alt="RSS Feed"/>
 - [Seestar ALP Launcher](https://www.4rknova.com//blog/2026/01/18/seestar-alp-debian)
 - [RTSP camera streaming with Raspberry-Pi Zero 2](https://www.4rknova.com//blog/2026/01/11/rtsp-rpi)
 - [ASCII Fire](https://www.4rknova.com//blog/2025/11/01/ascii-fire)
-- [Ray marching a blob](https://www.4rknova.com//blog/2025/09/21/blob-3d)
 <!-- BLOG-POST-LIST:END -->
