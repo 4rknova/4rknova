@@ -9,6 +9,7 @@ alt="RSS Feed"/>
 <!-- <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" /> -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Hamiltonian path puzzle](https://www.4rknova.com//blog/2026/04/24/number-trail)
 - [Haversine Distance](https://www.4rknova.com//blog/2026/04/19/haversine-distance)
 - [Pale Blue Dot](https://www.4rknova.com//blog/2026/04/17/pale-blue-dot)
 - [The Gaia Database](https://www.4rknova.com//blog/2026/03/05/gaia-database-intro)
@@ -18,5 +19,4 @@ alt="RSS Feed"/>
 - [A Universe Without Time](https://www.4rknova.com//blog/2026/01/25/barbour-timeless-universe)
 - [Seestar ALP Launcher](https://www.4rknova.com//blog/2026/01/18/seestar-alp-debian)
 - [RTSP camera streaming with Raspberry-Pi Zero 2](https://www.4rknova.com//blog/2026/01/11/rtsp-rpi)
-- [ASCII Fire](https://www.4rknova.com//blog/2025/11/01/ascii-fire)
 <!-- BLOG-POST-LIST:END -->
