@@ -16,7 +16,7 @@ alt="RSS Feed"/>
 - [Mulberry32: A Tiny, Fast, Deterministic RNG](https://www.4rknova.com//blog/2026/03/01/mulberry32-rng)
 - [Reaction-Diffusion: Gray-Scott on a 2D Grid](https://www.4rknova.com//blog/2026/02/15/reaction-diffusion)
 - [Raindrops on a puddle](https://www.4rknova.com//blog/2026/02/08/raindrops-on-puddle)
+- [Game Boy port of Snake in Assembly](https://www.4rknova.com//blog/2026/02/01/gb-snake)
 - [A Universe Without Time](https://www.4rknova.com//blog/2026/01/25/barbour-timeless-universe)
 - [Seestar ALP Launcher](https://www.4rknova.com//blog/2026/01/18/seestar-alp-debian)
-- [RTSP camera streaming with Raspberry-Pi Zero 2](https://www.4rknova.com//blog/2026/01/11/rtsp-rpi)
 <!-- BLOG-POST-LIST:END -->
