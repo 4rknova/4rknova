@@ -7,7 +7,7 @@ alt="RSS Feed"/>
 </div>
 
 <!-- <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" /> -->
-
+### Blog
 <!-- BLOG-POST-LIST:START -->
 - [Building a Hamiltonian path puzzle](https://www.4rknova.com//blog/2026/04/24/number-trail)
 - [Haversine Distance](https://www.4rknova.com//blog/2026/04/19/haversine-distance)
@@ -20,3 +20,6 @@ alt="RSS Feed"/>
 - [A Universe Without Time](https://www.4rknova.com//blog/2026/01/25/barbour-timeless-universe)
 - [Seestar ALP Launcher](https://www.4rknova.com//blog/2026/01/18/seestar-alp-debian)
 <!-- BLOG-POST-LIST:END -->
+
+### Backers
+[Pixceld](https://github.com/Pixceld)
