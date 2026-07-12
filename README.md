@@ -9,16 +9,16 @@ alt="RSS Feed"/>
 <!-- <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" /> -->
 ### Blog
 <!-- BLOG-POST-LIST:START -->
-- [Building a Hamiltonian path puzzle](https://www.4rknova.com//blog/2026/04/24/number-trail)
-- [Haversine Distance](https://www.4rknova.com//blog/2026/04/19/haversine-distance)
-- [Pale Blue Dot](https://www.4rknova.com//blog/2026/04/17/pale-blue-dot)
-- [The Gaia Database](https://www.4rknova.com//blog/2026/03/05/gaia-database-intro)
-- [Mulberry32: A Tiny, Fast, Deterministic RNG](https://www.4rknova.com//blog/2026/03/01/mulberry32-rng)
-- [Reaction-Diffusion: Gray-Scott on a 2D Grid](https://www.4rknova.com//blog/2026/02/15/reaction-diffusion)
-- [Raindrops on a puddle](https://www.4rknova.com//blog/2026/02/08/raindrops-on-puddle)
-- [Game Boy port of Snake in Assembly](https://www.4rknova.com//blog/2026/02/01/gb-snake)
-- [A Universe Without Time](https://www.4rknova.com//blog/2026/01/25/barbour-timeless-universe)
-- [Seestar ALP Launcher](https://www.4rknova.com//blog/2026/01/18/seestar-alp-debian)
+- [A minimal Wolfenstein 3D raycasting engine](https://www.4rknova.com/blog/2026/07/06/wolfenstein-3d-raycasting)
+- [Building a Hamiltonian path puzzle](https://www.4rknova.com/blog/2026/04/24/number-trail)
+- [Haversine Distance](https://www.4rknova.com/blog/2026/04/19/haversine-distance)
+- [Pale Blue Dot](https://www.4rknova.com/blog/2026/04/17/pale-blue-dot)
+- [The Gaia Database](https://www.4rknova.com/blog/2026/03/05/gaia-database-intro)
+- [Mulberry32: A Tiny, Fast, Deterministic RNG](https://www.4rknova.com/blog/2026/03/01/mulberry32-rng)
+- [Reaction-Diffusion: Gray-Scott on a 2D Grid](https://www.4rknova.com/blog/2026/02/15/reaction-diffusion)
+- [Raindrops on a puddle](https://www.4rknova.com/blog/2026/02/08/raindrops-on-puddle)
+- [Game Boy port of Snake in Assembly](https://www.4rknova.com/blog/2026/02/01/gb-snake)
+- [A Universe Without Time](https://www.4rknova.com/blog/2026/01/25/barbour-timeless-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ### Backers
