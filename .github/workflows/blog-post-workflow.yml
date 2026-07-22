@@ -14,3 +14,7 @@ jobs:
               with: 
                 max_post_count: "10"
                 feed_list: "https://www.4rknova.com/feed.xml"
+                # Monospace, to match the ASCII banner. <samp> rather than a
+                # markdown code span, which GitHub renders with a grey chip.
+                date_format: "yyyy-mm-dd"
+                template: '<samp>$date&nbsp;&nbsp;<a href="$url">$title</a></samp><br>$newline'

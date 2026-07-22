@@ -1,25 +1,19 @@
-<img align="center" src="https://raw.githubusercontent.com/4rknova/4rknova/main/banner.png">
+<p align="center">
+  <img alt="4rknova" width="720"
+       src="https://raw.githubusercontent.com/4rknova/4rknova/source/dist/bio.svg">
+</p>
+
 <div>
-  <a href="https://www.4rknova.com/feed.xml" target="blank">
-    <img alt="RSS" src="https://img.shields.io/badge/RSS-0066cc?style=for-the-badge&logo=rss&logoColor=white"
-alt="RSS Feed"/>
-  </a>
-</div>
-
-<!-- <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" /> -->
-### Blog
 <!-- BLOG-POST-LIST:START -->
-- [A minimal Wolfenstein 3D raycasting engine](https://www.4rknova.com/blog/2026/07/06/wolfenstein-3d-raycasting)
-- [Building a Hamiltonian path puzzle](https://www.4rknova.com/blog/2026/04/24/number-trail)
-- [Haversine Distance](https://www.4rknova.com/blog/2026/04/19/haversine-distance)
-- [Pale Blue Dot](https://www.4rknova.com/blog/2026/04/17/pale-blue-dot)
-- [The Gaia Database](https://www.4rknova.com/blog/2026/03/05/gaia-database-intro)
-- [Mulberry32: A Tiny, Fast, Deterministic RNG](https://www.4rknova.com/blog/2026/03/01/mulberry32-rng)
-- [Reaction-Diffusion: Gray-Scott on a 2D Grid](https://www.4rknova.com/blog/2026/02/15/reaction-diffusion)
-- [Raindrops on a puddle](https://www.4rknova.com/blog/2026/02/08/raindrops-on-puddle)
-- [Game Boy port of Snake in Assembly](https://www.4rknova.com/blog/2026/02/01/gb-snake)
-- [A Universe Without Time](https://www.4rknova.com/blog/2026/01/25/barbour-timeless-universe)
+<samp>2026-07-06&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/07/06/wolfenstein-3d-raycasting">A minimal Wolfenstein 3D raycasting engine</a></samp><br>
+<samp>2026-04-24&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/04/24/number-trail">Building a Hamiltonian path puzzle</a></samp><br>
+<samp>2026-04-19&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/04/19/haversine-distance">Haversine Distance</a></samp><br>
+<samp>2026-04-17&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/04/17/pale-blue-dot">Pale Blue Dot</a></samp><br>
+<samp>2026-03-05&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/03/05/gaia-database-intro">The Gaia Database</a></samp><br>
+<samp>2026-03-01&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/03/01/mulberry32-rng">Mulberry32: A Tiny, Fast, Deterministic RNG</a></samp><br>
+<samp>2026-02-15&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/02/15/reaction-diffusion">Reaction-Diffusion: Gray-Scott on a 2D Grid</a></samp><br>
+<samp>2026-02-08&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/02/08/raindrops-on-puddle">Raindrops on a puddle</a></samp><br>
+<samp>2026-02-01&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/02/01/gb-snake">Game Boy port of Snake in Assembly</a></samp><br>
+<samp>2026-01-25&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/01/25/barbour-timeless-universe">A Universe Without Time</a></samp><br>
 <!-- BLOG-POST-LIST:END -->
-
-### Backers
-[Pixceld](https://github.com/Pixceld)
+</div>
