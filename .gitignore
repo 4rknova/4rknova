@@ -1,0 +1,4 @@
+preview.html
+*.swp
+__pycache__/
+*.pyc
