@@ -4,7 +4,8 @@
 </p>
 
 <div>
-<!-- BLOG-POST-LIST:START --><samp>2026-07-26&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/07/27/voronoi-fracture">Voronoi Fragmentation of a Mesh</a></samp><br>
+<!-- BLOG-POST-LIST:START --><samp>2026-10-03&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/10/04/one-must-fall-2097">One Must Fall: 2097, revisiting a DOS classic</a></samp><br>
+<samp>2026-07-26&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/07/27/voronoi-fracture">Voronoi Fragmentation of a Mesh</a></samp><br>
 <samp>2026-07-18&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/07/19/a-field-guide-to-rendering">A field guide to rendering: from triangles to Gaussians</a></samp><br>
 <samp>2026-07-05&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/07/06/wolfenstein-3d-raycasting">A minimal Wolfenstein 3D raycasting engine</a></samp><br>
 <samp>2026-04-23&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/04/24/number-trail">Building a Hamiltonian path puzzle</a></samp><br>
@@ -13,6 +14,5 @@
 <samp>2026-03-05&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/03/05/gaia-database-intro">The Gaia Database</a></samp><br>
 <samp>2026-03-01&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/03/01/mulberry32-rng">Mulberry32: A Tiny, Fast, Deterministic RNG</a></samp><br>
 <samp>2026-02-15&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/02/15/reaction-diffusion">Reaction-Diffusion: Gray-Scott on a 2D Grid</a></samp><br>
-<samp>2026-02-08&nbsp;&nbsp;<a href="https://www.4rknova.com/blog/2026/02/08/raindrops-on-puddle">Raindrops on a puddle</a></samp><br>
 <!-- BLOG-POST-LIST:END -->
 </div>
